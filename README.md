@@ -10,3 +10,7 @@
     - You will understand the benefits of Big Query ML. 
     - We then discuss how to optimize a machine learning (ML) model and how generalization and sampling can help assess the quality of ML models for custom training.
 - Documents:
+    - [Summary](https://github.com/thien1892/learn_from_courses/blob/master/Launching%20into%20Machine%20Learning/Documents/summary.pdf)
+    - [Quiz](https://github.com/thien1892/learn_from_courses/blob/master/Launching%20into%20Machine%20Learning/Documents/Quiz%20Question.pdf)
+    - [Readings](https://github.com/thien1892/learn_from_courses/blob/master/Launching%20into%20Machine%20Learning/Documents/reading.pdf)
+    - [Notes](https://github.com/thien1892/learn_from_courses/blob/master/Launching%20into%20Machine%20Learning/README.md)
