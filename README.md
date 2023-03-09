@@ -1,6 +1,6 @@
-# Learn from cources
+# Learn from courses
 
-## 1. [Launching into Machine Learning](https://github.com/thien1892/learn_from_courses/tree/master/Launching%20into%20Machine%20Learning)
+## 01. [Launching into Machine Learning](https://github.com/thien1892/learn_from_courses/tree/master/Launching%20into%20Machine%20Learning)
 - Time: 4 days
 - Link: [Click](https://www.cloudskillsboost.google/course_templates/8)
 - Organization: Google Cloud Skills Boost
@@ -14,3 +14,9 @@
     - [Quiz](https://github.com/thien1892/learn_from_courses/blob/master/Launching%20into%20Machine%20Learning/Documents/Quiz%20Question.pdf)
     - [Readings](https://github.com/thien1892/learn_from_courses/blob/master/Launching%20into%20Machine%20Learning/Documents/reading.pdf)
     - [Notes](https://github.com/thien1892/learn_from_courses/blob/master/Launching%20into%20Machine%20Learning/README.md)
+
+## 02. TensorFlow on Google Cloud
+- Time: 3 days
+- Link: [Click](https://www.cloudskillsboost.google/course_templates/12)
+- Organization: Google Cloud Skills Boost
+- Main content: This course covers designing and building a TensorFlow input data pipeline, building ML models with TensorFlow and Keras, improving the accuracy of ML models, writing ML models for scaled use, and writing specialized ML models.
