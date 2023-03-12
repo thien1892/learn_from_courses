@@ -16,6 +16,7 @@
     - [Notes](https://github.com/thien1892/learn_from_courses/blob/master/Launching%20into%20Machine%20Learning/README.md)
 
 ## 02. TensorFlow on Google Cloud
+- [Badge](https://www.cloudskillsboost.google/public_profiles/84ab0e45-a8eb-4828-b167-e97ed97539bb/badges/3301810)
 - Time: 3 days
 - Link: [Click](https://www.cloudskillsboost.google/course_templates/12)
 - Organization: Google Cloud Skills Boost
